@@ -1,4 +1,4 @@
-- 👋 Hi, I’m salar 
+- 👋 Hi, I’m Salar 
 - 🌱 I’m currently learning Very skilled 🫨
 <!---
 salarrbl/salarrbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
